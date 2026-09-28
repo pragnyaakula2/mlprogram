@@ -38,6 +38,6 @@ jobs:
 
     - name: Run Python program
       run: |
-        python x.py
-        pylint x.py
+        python y.py
+        
         
