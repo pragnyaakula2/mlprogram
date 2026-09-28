@@ -39,5 +39,6 @@ jobs:
     - name: Run Python program
       run: |
         python y.py
+        pylint y.py
         
         
